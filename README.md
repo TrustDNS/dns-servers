@@ -11,7 +11,7 @@ You can use the list of DNS serveris with Trust DNS - DNS changer for iOS
 
 You can use this list with Trust DNS - DNS changer for Android
 
-<a href='https://play.google.com/store/apps/details?id=com.surfshark.free.proxy.trust.dns&utm_source=githubtd&utm_campaign=githubtd'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=135px /></a>
+<a href='https://play.google.com/store/apps/details?id=com.surfshark.free.proxy.trust.dns&utm_source=githubtd&utm_campaign=githubtd'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=140px /></a>
 
 ## References
 
