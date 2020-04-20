@@ -5,7 +5,7 @@ Welcome to repository of Trust DNS servers list. You can use it or provide chang
 ## Trust DNS for Apple iOS
 You can use the list of DNS serveris with Trust DNS - DNS changer for iOS
 
-&nbsp;&nbsp;<a href='https://apps.apple.com/us/app/dns-changer-trust-dns/id1498090025?mt=8'><img src='https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-02-25&kind=iossoftware&bubble=ios_apps' width=135px /></a>
+&nbsp;&nbsp;&nbsp;<a href='https://apps.apple.com/us/app/dns-changer-trust-dns/id1498090025?mt=8'><img src='https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-02-25&kind=iossoftware&bubble=ios_apps' width=135px /></a>
 
 ## Trust DNS for Android
 
