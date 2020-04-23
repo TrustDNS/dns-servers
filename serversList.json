@@ -220,9 +220,9 @@
    "titleByServer": "1.0.0.2 by Cloudflare",
    "titleByNameAndCountryCode": "DoH by Cloudflare (AU)",
    "owner": "Cloudflare",
-   "hostName": "/dns-query",
+   "hostName": "security.cloudflare-dns.com",
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "dns.adguard.com",
@@ -720,9 +720,9 @@
    "titleByServer": "45.32.55.94  by BlahDNS",
    "titleByNameAndCountryCode": "DoH by https://blahdns.com/ (JP)",
    "owner": "https://blahdns.com/",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "176.56.237.171",
@@ -820,7 +820,7 @@
    "titleByServer": "104.168.247.138 by alekberg.net",
    "titleByNameAndCountryCode": "DoH by alekberg.net (US)",
    "owner": "alekberg.net",
-   "hostName": "/",
+   "hostName": "dns2.alekberg.net",
    "providerName": null,
    "path": null
  },
@@ -845,9 +845,9 @@
    "titleByServer": "By CleanBrowsing",
    "titleByNameAndCountryCode": "DoH by CleanBrowsing (US)",
    "owner": "CleanBrowsing",
-   "hostName": "/doh/security-filter/",
+   "hostName": "doh.cleanbrowsing.org",
    "providerName": null,
-   "path": null
+   "path": "/doh/security-filter/"
  },
  {
    "address": "206.189.142.179",
@@ -920,9 +920,9 @@
    "titleByServer": "[2620:fe::9] by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (US)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "[2620:0:ccc::2]",
@@ -1020,9 +1020,9 @@
    "titleByServer": "9.9.9.9 by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (FR)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "[2607:5300:120:b9b::200]",
@@ -1120,9 +1120,9 @@
    "titleByServer": "195.30.94.28 by Freifunk München",
    "titleByNameAndCountryCode": "DoH by Freifunk München, ffmuc.net (DE)",
    "owner": "Freifunk München, ffmuc.net",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "doh-de.blahdns.com",
@@ -1145,9 +1145,9 @@
    "titleByServer": "[2a01:4f8:1c1c:6b4b::1] by BlahDNS",
    "titleByNameAndCountryCode": "DoH by blahdns.com (DE)",
    "owner": "blahdns.com",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path":  "/dns-query"
  },
  {
    "address": "[2a0d:2a00:1::1]",
@@ -1320,9 +1320,9 @@
    "titleByServer": "[2400:8902::f03c:91ff:feed:220b] by https://jp.gridns.xyz",
    "titleByNameAndCountryCode": "DoH by https://jp.gridns.xyz/dns-query — Tokyo server (JP)",
    "owner": "https://jp.gridns.xyz/dns-query — Tokyo server",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "odvr.nic.cz",
@@ -1370,9 +1370,9 @@
    "titleByServer": "By CleanBrowsing",
    "titleByNameAndCountryCode": "DoH by By CleanBrowsing (CZ)",
    "owner": "By CleanBrowsing",
-   "hostName": "/doh/family-filter/",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/doh/family-filter/"
  },
  {
    "address": "162.221.207.228",
@@ -1645,9 +1645,9 @@
    "titleByServer": "by GeekDNS",
    "titleByNameAndCountryCode": "DoH by https://www.nextrt.com/s/dns (US)",
    "owner": "https://www.nextrt.com/s/dns",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "jp.tiar.app",
@@ -1745,7 +1745,7 @@
    "titleByServer": "51.15.124.208 by alekberg.net",
    "titleByNameAndCountryCode": "DoH by alekberg.net (NL)",
    "owner": "alekberg.net",
-   "hostName": "/",
+   "hostName": null,
    "providerName": null,
    "path": null
  },
@@ -2120,9 +2120,9 @@
    "titleByServer": "159.69.198.101 by BlahDNS",
    "titleByNameAndCountryCode": "DoH by blahdns.com (DE)",
    "owner": "blahdns.com",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "142.4.204.111",
@@ -2395,9 +2395,9 @@
    "titleByServer": "[2620:fe::10] by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (US)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "dohtrial.att.net",
@@ -2770,9 +2770,9 @@
    "titleByServer": "9.9.9.10 by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (US)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "205.185.116.116",
@@ -2895,9 +2895,9 @@
    "titleByServer": "149.112.112.10 by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (US)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "doh.tiar.app",
@@ -3220,9 +3220,9 @@
    "titleByServer": "1.0.0.1 by Cloudflare",
    "titleByNameAndCountryCode": "DoH by Cloudflare (AU)",
    "owner": "Cloudflare",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "95.216.212.177",
@@ -3320,9 +3320,9 @@
    "titleByServer": "[2620:fe::fe:9] by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (US)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "64.42.181.227",
@@ -3620,9 +3620,9 @@
    "titleByServer": "[2606:4700:4700::1111]:53 by Cloudflare",
    "titleByNameAndCountryCode": "DoH by Cloudflare (US)",
    "owner": "Cloudflare",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "doh.powerdns.org",
@@ -3770,9 +3770,9 @@
    "titleByServer": "[2620:fe::fe:10] by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (US)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "dns2.dnscrypt.ca",
@@ -3820,9 +3820,9 @@
    "titleByServer": "45.153.187.96 by Alekberg - alekberg.net",
    "titleByNameAndCountryCode": "DoH by Alekberg - alekberg.net (CA)",
    "owner": "Alekberg - alekberg.net",
-   "hostName": "/dns",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns"
  },
  {
    "address": "[2001:608:a01::3]",
@@ -3970,9 +3970,9 @@
    "titleByServer": "172.105.241.93 by https://jp.gridns.xyz",
    "titleByNameAndCountryCode": "DoH by https://jp.gridns.xyz/dns-query — Tokyo server (JP)",
    "owner": "https://jp.gridns.xyz/dns-query — Tokyo server",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "[2c0f:fda8:5::2ed1:d2ec]",
@@ -4145,9 +4145,9 @@
    "titleByServer": "[2a01:4f9:c010:43ce::1] by BlahDNS",
    "titleByNameAndCountryCode": "DoH by blahdns.com (DE)",
    "owner": "blahdns.com",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "167.114.220.125",
@@ -4295,9 +4295,9 @@
    "titleByServer": "[2001:19f0:7001:3259:5400:02ff:fe71:0bc9] by BlahDNS",
    "titleByNameAndCountryCode": "DoH by blahdns.com (CN)",
    "owner": "blahdns.com",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "[2620:119:35::35]",
@@ -4495,9 +4495,9 @@
    "titleByServer": "1.0.0.3 by Cloudflare",
    "titleByNameAndCountryCode": "DoH by Cloudflare (AU)",
    "owner": "Cloudflare",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "dns.digitale-gesellschaft.ch",
@@ -4520,9 +4520,9 @@
    "titleByServer": "by Digitale Gesellschaft ",
    "titleByNameAndCountryCode": "DoH by Digitale Gesellschaft  (AU)",
    "owner": "Digitale Gesellschaft ",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "41.79.69.13",
@@ -4645,9 +4645,9 @@
    "titleByServer": "149.112.112.9 by Quad9",
    "titleByNameAndCountryCode": "DoH by Quad9 (US)",
    "owner": "Quad9",
-   "hostName": "/dns-query",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/dns-query"
  },
  {
    "address": "doh.securedns.eu",
@@ -4970,9 +4970,9 @@
    "titleByServer": "By CleanBrowsing",
    "titleByNameAndCountryCode": "DoH by CleanBrowsing (FR)",
    "owner": "CleanBrowsing",
-   "hostName": "/doh/adult-filter/",
+   "hostName": null,
    "providerName": null,
-   "path": null
+   "path": "/doh/adult-filter/"
  },
  {
    "address": "[2a01:4f9:c010:43ce::1]",
